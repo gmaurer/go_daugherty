@@ -1,0 +1,7 @@
+{
+    "driver" : "postgres",
+    "host" : "go-course-db.cibfz6nsauji.us-east-2.rds.amazonaws.com user=gopostgres",
+    "user" : "gopostgres",
+    "password" : "mypostgresgo",
+    "dbname" : "postgres"
+}
