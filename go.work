@@ -1,0 +1,16 @@
+go 1.19
+
+use (
+    ./go-basics
+    ./go-bigquery
+    ./go-concurrency
+    ./go-db
+    ./go-error-handling
+    ./go-rest
+    ./go-grpc
+    ./go-grpc-client
+    ./go-standard-lib
+    ./go-stats-lab
+    ./go-test-server
+    ./go-testing    
+)
